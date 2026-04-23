@@ -8,15 +8,18 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+I am a Computer Science and Engineering graduate from Universidad Andrés Bello, Chile. Python, JavaScript, Node.js, React, SQL, and HTML are the technologies I work with. I enjoy solving real-world problems through technology and building efficient, practical solutions.
+
+- 🌱 I'm currently improving my skills in:
+  - Data Analysis with Python (pandas, matplotlib)
+  - React & Node.js
+  - Power BI
+
+- 👯 I'm looking to collaborate on open source projects related to web development or data analysis.
+- 💬 Ask me about IT support, web development, or data science — happy to help!
+- 📫 Reach me at: <a href="matiastorres57@gmail.com">matiastorres57@gmail.com</a>
+- ⚡ Outside tech, I enjoy music, exploring the city, and staying up to date with the latest in AI and technology.
+
 <!--
 **MatiasATorresS/MatiasATorresS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
